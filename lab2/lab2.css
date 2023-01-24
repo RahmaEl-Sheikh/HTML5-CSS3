@@ -1,0 +1,14 @@
+
+body {
+  height: 70%;
+
+ 
+}
+.mapouter {
+  position: absolute 20%;
+  top: auto;
+  height: auto;
+  width:auto;
+  border:auto;
+  border-color: black;
+}
